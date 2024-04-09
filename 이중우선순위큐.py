@@ -1,16 +1,3 @@
-# import heapq
-#
-#
-# heap = []
-# heapq.heappush(heap, -10)
-# heapq.heappush(heap, -9)
-# heapq.heappush(heap, -11)
-#
-# while heap:
-#     x = heapq.heappop(heap)
-#
-#     print(-x)
-
 import heapq
 
 
